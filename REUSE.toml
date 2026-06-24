@@ -15,16 +15,3 @@ path = [
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2018 - 2026 DCO App Contributors"
 SPDX-License-Identifier = "ISC"
-
-[[annotations]]
-path = [
-    "README.md",
-    "docs/deploy.md",
-    "docs/required-statuses.md",
-    ".github/workflows/release.yml",
-    ".github/workflows/stats.yml",
-    ".github/workflows/test.yml",
-]
-precedence = "aggregate"
-SPDX-FileCopyrightText = "2018 - 2026 DCO App Contributors"
-SPDX-License-Identifier = "ISC"
